@@ -1,5 +1,5 @@
 // Get references to the input field and the provider logo element
-const phoneInput = document.getElementById('phone');
+const phoneInput = document.querySelector('.phone');
 const providerLogo = document.querySelector('.provider-logo');
 
 // Function to detect and set the provider logo
